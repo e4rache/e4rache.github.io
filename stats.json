@@ -1,40 +1,36 @@
 {
   "assetsByChunkName": {
-    "path---post-two": [
-      "path---post-two-f7e5030c1d357cc71495.js",
-      "path---post-two-f7e5030c1d357cc71495.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-99b484915f20c661103c.js",
-      "component---src-pages-index-js-99b484915f20c661103c.js.map"
+      "component---src-pages-index-js-d3760cbf511ecc47af76.js",
+      "component---src-pages-index-js-d3760cbf511ecc47af76.js.map"
     ],
-    "path---blog": [
-      "path---blog-597284926dec945c55a9.js",
-      "path---blog-597284926dec945c55a9.js.map"
+    "component---src-pages-old-index-js": [
+      "component---src-pages-old-index-js-99b484915f20c661103c.js",
+      "component---src-pages-old-index-js-99b484915f20c661103c.js.map"
     ],
     "path---": [
-      "path----a85d7bcd92361be0f3a8.js",
-      "path----a85d7bcd92361be0f3a8.js.map"
+      "path----1b85ce6ba80d07f9a6c1.js",
+      "path----1b85ce6ba80d07f9a6c1.js.map"
+    ],
+    "path---old-index": [
+      "path---old-index-a0e39f21c11f6a62c5ab.js",
+      "path---old-index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-8205188c616bb94ee406.js",
-      "component---src-templates-blog-post-js-8205188c616bb94ee406.js.map"
+      "component---src-templates-blog-post-js-ba591bee5698f010511d.js",
+      "component---src-templates-blog-post-js-ba591bee5698f010511d.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-ee562bb2800afb91646f.js",
-      "component---src-layouts-index-js-ee562bb2800afb91646f.js.map"
+      "component---src-layouts-index-js-5a10b1b13262054705d9.js",
+      "component---src-layouts-index-js-5a10b1b13262054705d9.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-a0e39f21c11f6a62c5ab.js",
-      "path---index-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---post-one": [
-      "path---post-one-a307f0490600910e3be6.js",
-      "path---post-one-a307f0490600910e3be6.js.map"
+      "path---index-34bb2c9f7e348c85a87f.js",
+      "path---index-34bb2c9f7e348c85a87f.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -48,19 +44,19 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-blog-js": [
-      "component---src-pages-blog-js-e17dc8d61094914bff12.js",
-      "component---src-pages-blog-js-e17dc8d61094914bff12.js.map"
-    ],
     "component---src-pages-page-2-js": [
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
     "app": [
-      "app-16b576927c0d359c5870.js",
+      "app-799564f991039ef6d52e.js",
       "build-js-styles.css",
-      "app-16b576927c0d359c5870.js.map",
+      "app-799564f991039ef6d52e.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---flight-radar": [
+      "path---flight-radar-9cc226c7e7dd95b420bc.js",
+      "path---flight-radar-9cc226c7e7dd95b420bc.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",

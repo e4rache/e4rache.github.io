@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{341:function(a,t){a.exports={data:{allMarkdownRemark:{edges:[{node:{id:"/home/l/dev/gatsby/traversymedia-gatsby_crash_course/src/pages/2018-08-24.01/index.md absPath of file >>> MarkdownRemark",frontmatter:{path:"/flight-radar",title:"Flight Radar 24",date:"2018-08-25"},excerpt:"https://www.flightradar24.com It's amazing how much informations you can get in real time about commercial flights."}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-34bb2c9f7e348c85a87f.js.map
